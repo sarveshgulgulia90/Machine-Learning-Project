@@ -40,6 +40,7 @@ Deep learning architectures (e.g., LSTM for temporal data)
 ✍️ Contributors
 Sarvesh Gulgulia(me)
  Teammate’s Name
- Gaurav Singh Bora
+ Gaurav Singh Bora https://github.com/GauRaVsinghbora
+ 
  Rishi Sharma
  Arshveer Singh Chauhan
